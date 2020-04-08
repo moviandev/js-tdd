@@ -1,0 +1,25 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "This is a lib of JS with TDD course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moviandev/js-tdd-course.git"
+  },
+  "keywords": [
+    "Javascript",
+    "TDD",
+    "Library",
+    "JS"
+  ],
+  "author": "Matheus Viana <matheus_o_viana@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moviandev/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/moviandev/js-tdd-course#readme"
+}
